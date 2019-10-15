@@ -1,0 +1,26 @@
+{
+  "name": "perspectiveio",
+  "version": "1.0.0",
+  "description": "Hotel management tool",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igandhi88/PerspectiveIO.git"
+  },
+  "keywords": [
+    "Node"
+  ],
+  "author": "Ishan Gandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igandhi88/PerspectiveIO/issues"
+  },
+  "homepage": "https://github.com/igandhi88/PerspectiveIO#readme"
+}
