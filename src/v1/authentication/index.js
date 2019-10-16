@@ -13,6 +13,5 @@ router.post("/login",Controller.userAuthentication)
 router.get("/get-all_users",Controller.getAllUsers)
 router.post("/remove-user",Controller.removeUser)
 
-// router.get("/get-users",Controller.userAuthentication);
 
 module.exports=router
