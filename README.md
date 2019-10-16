@@ -48,7 +48,7 @@ Check Service Status
 
 ###### Linux
 ```
-sudo service mongod restart
+sudo service mongod start
 ```
 
 
