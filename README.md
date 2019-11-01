@@ -123,7 +123,7 @@ username:igandhi
 
 ```
 
-####Remove User API
+#### Remove User API
 ```
 [POST] BASE_URL/authentication/remove-user
 
